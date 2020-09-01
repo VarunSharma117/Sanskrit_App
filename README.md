@@ -7,7 +7,9 @@ Now, Learn the first basic of Sanskrit language with pronunciation and visual im
 
 Tap to play pronunciation (Audio)
 
+To Download the App, [Click Here](Sanskrit_App/app/release/)
 
+Installation may show some play protect security issues! Which can be ignored.
 
 <img src="Images/img1.jpg" width="300" >
 <img src="Images/img2.jpg" width="300" >
