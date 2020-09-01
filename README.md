@@ -7,7 +7,7 @@ Now, Learn the first basic of Sanskrit language with pronunciation and visual im
 
 Tap to play pronunciation (Audio)
 
-To Download the App, [Click Here](Sanskrit_App/app/release/)
+To Download the App, [Click Here](/app/release/)
 
 Installation may show some play protect security issues! Which can be ignored.
 
