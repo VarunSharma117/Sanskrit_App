@@ -11,6 +11,8 @@ To Download the App, [Click Here](/app/release/)
 
 Installation may show some play protect security issues! Which can be ignored.
 
+<img src="Images/20200901_192810.gif" width="300" >
+
 <img src="Images/img1.jpg" width="300" >
 <img src="Images/img2.jpg" width="300" >
 <img src="Images/img3.jpg" width="300" >
