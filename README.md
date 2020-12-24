@@ -1,4 +1,5 @@
-# The Sanskrit App
+# The Sanskrit App  
+<img src="Images/ic_launcher-playstore.png" width="150" >
 
 
 Do you know? Google Translator or the other famous translators doesn't support Sanskrit language!
